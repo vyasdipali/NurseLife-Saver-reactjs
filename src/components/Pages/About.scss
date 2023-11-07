@@ -1,0 +1,40 @@
+.about-us {
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+}
+.line-about {
+  width: 120px;
+  height: 3px;
+  background-color: #f1a501;
+  display: flex;
+  justify-content: center;
+  margin-top: -36px;
+}
+.text-tag-about {
+    .question-div-text{ 
+        color:rgb(57, 57, 162);
+        line-height: 26px;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-size: medium;
+    }
+  display: flex;
+  justify-content: start;
+  padding: 10px 70px 13px 70px;
+
+  .text-one-p {
+    color: #777;
+    line-height: 26px;
+    font-family:'Georgia';
+    
+  }
+ 
+}
+.line-about-text{
+    width: 1191px;
+    height: 2px;
+    background-color: rgb(241, 165, 1);
+    display: flex;
+    justify-content: center;
+  }

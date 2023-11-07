@@ -1,0 +1,178 @@
+.footer-div {
+  width: 100%;
+  background:#F7F2FA; 
+
+  .last-how {
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+  }
+  .how-1-0 {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    color: #f1a501;
+    margin-top: 12px;
+    margin-top: 46px;
+  }
+  .main-last-01 {
+    max-width: 900px;
+
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 0pc 4pc 8pc;
+    margin-top: 1pc;
+
+    .con-us {
+      font-family: "Poppins";
+      font-style: normal;
+      font-weight: 700;
+      font-size: 18px;
+      line-height: 27px;
+      color: #f1a501;
+    }
+    .toll {
+      font-family: "Poppins";
+      font-style: normal;
+      font-weight: 500;
+      font-size: 14px;
+
+      color: #313131;
+    }
+
+    .num {
+      font-family: "Poppins";
+      font-style: normal;
+      font-weight: 400;
+      font-size: 14px;
+      text-decoration-line: underline;
+      color: #313131;
+      margin-top: -6px;
+    }
+
+    .email {
+      font-family: "Poppins";
+      font-style: normal;
+      font-weight: 400;
+      font-size: 14px;
+
+      text-decoration-line: underline;
+
+      color: #313131;
+    }
+    .add-48 {
+      font-family: "Poppins";
+      font-style: normal;
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 21px;
+
+      color: #313131;
+    }
+    .usf {
+      font-family: "Poppins";
+      font-style: normal;
+      font-weight: 700;
+      font-size: 18px;
+      line-height: 27px;
+      color: #f1a501;
+    }
+    .about {
+      font-family: "Poppins";
+      font-style: normal;
+      font-weight: 400;
+      font-size: 14px;
+      color: #313131;
+    }
+
+    .meet {
+      font-family: "Poppins";
+      font-style: normal;
+      font-weight: 400;
+      font-size: 14px;
+      color: #313131;
+    }
+
+    .Blog {
+      font-family: "Poppins";
+      font-style: normal;
+      font-weight: 400;
+      font-size: 14px;
+      color: #313131;
+    }
+
+    .Pricing {
+      font-family: "Poppins";
+      font-style: normal;
+      font-weight: 400;
+      font-size: 14px;
+      color: #313131;
+    }
+
+    .FAQs {
+      font-family: "Poppins";
+      font-style: normal;
+      font-weight: 400;
+      font-size: 14px;
+      color: #313131;
+    }
+  }
+  .main-last-0-1 {
+    .follow {
+      font-family: "Poppins";
+      font-style: normal;
+      font-weight: 700;
+      font-size: 18px;
+
+      text-transform: uppercase;
+      color: #f1a501;
+    }
+  }
+  .last-fb-01 {
+    display: flex;
+    gap: 20px;
+    color: black;
+  }
+}
+
+.footer {
+  display: flex;
+  justify-content: space-evenly;
+//   background-color: #e4a00b;
+}
+
+.footer-01 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  color: #f1a501;
+}
+
+.footer-02 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  text-decoration-line: underline;
+  color: #f1a501;
+}
+
+.footer-03 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  text-decoration-line: underline;
+  color: #f1a501;
+}
+
+.footer-04 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  text-decoration-line: underline;
+  color: #f1a501;
+}

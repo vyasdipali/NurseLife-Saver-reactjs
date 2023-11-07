@@ -1,0 +1,25 @@
+.dropzone {
+  border: 2px dashed #100f0f;
+  border-radius: 4px;
+  background-color: #fafafa;
+  text-align: center;
+  padding: 20px;
+  cursor: pointer;
+  width: 602px;
+}
+
+.dropzone p {
+  margin: 0;
+  font-size: 16px;
+  color: #555555;
+}
+
+.dropzone ul {
+  list-style: none;
+  padding: 0;
+}
+
+.dropzone ul li {
+  font-size: 14px;
+  color: #555555;
+}
